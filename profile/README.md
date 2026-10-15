@@ -1,9 +1,9 @@
-# Operating Systems at Universidad de La Laguna
+# Sistemas Operativos en la Universidad de La Laguna
 
-We create learning materials and develop projects about operating systems at the University of La Laguna.
+Creamos materiales didácticos y desarrollamos proyectos sobre sistemas operativos en la Universidad de La Laguna.
 
-## Key resources
+## Recursos destacados
 
-- [Operating Systems course notes](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/)
-- [Operating Systems examples](https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos)
-- [C++ practice advice](https://github.com/ull-esit-sistemas-operativos/ssoo-practica-consejos-cpp)
+- [Apuntes de Sistemas Operativos](https://ull-esit-sistemas-operativos.github.io/ssoo-apuntes/)
+- [Ejemplos de Sistemas Operativos](https://github.com/ull-esit-sistemas-operativos/ssoo-ejemplos)
+- [Consejos para las prácticas de C++](https://github.com/ull-esit-sistemas-operativos/ssoo-practica-consejos-cpp)
