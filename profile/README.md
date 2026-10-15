@@ -1,6 +1,6 @@
 # Sistemas Operativos en la Universidad de La Laguna
 
-Creamos materiales didácticos y desarrollamos proyectos sobre sistemas operativos en la Universidad de La Laguna.
+Materiales didácticos y proyectos sobre asignaturas de sistemas operativos en la Universidad de La Laguna.
 
 ## Recursos destacados
 
